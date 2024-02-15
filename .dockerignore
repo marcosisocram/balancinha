@@ -1,0 +1,8 @@
+*.MD
+*.pdf
+*.sh
+*.o
+balance
+README.md
+COPYING
+Dockerfile
